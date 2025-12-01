@@ -63,7 +63,7 @@ aoc/
 ### Personal Information (TODO)
 
 - **Programming Language**: [Python/JavaScript/Rust/etc.]
-- **Year**: [Current Year]
+- **Year**: [2025]
 - **Total Stars Collected**: [Total Stars]
 - **Favorite Challenge**: [Day X]
 > To be fille in by the participant...
